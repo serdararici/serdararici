@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3rd-year student at Sakarya<br>University, department of computer<br>engineering. I am proficient in basic<br>algorithms, data structures, and some<br>programming languages. I continue to<br>develop myself in these areas. I am open<br>to learning and willing to gain<br>experience. While contributing to the<br>corporate development of the company I<br>work for, I also want to improve myself<br>and gain experience.<br><br>🌱 I’m currently learning android programming
+I am a 4th-year student at Sakarya<br>University, department of computer<br>engineering. I am proficient in basic<br>algorithms, data structures, and some<br>programming languages. I continue to<br>develop myself in these areas. I am open<br>to learning and willing to gain<br>experience. While contributing to the<br>corporate development of the company I<br>work for, I also want to improve myself<br>and gain experience.<br><br>🌱 I’m currently learning android programming
 
 
 ## 🌐 Socials:
