@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning<br>I’m focusing on mobile app development with Flutter and Kotlin, while exploring AI integration and data analysis to build smarter and more efficient applications.<br><br>🎯 Goals<br>Develop user-friendly and impactful mobile and web applications.<br>Enhance my skills in AI-powered solutions and data analysis to solve real-world problems.<br>Work on projects that combine technology and innovation to make a difference.<br><br>🎲 Fun Fact<br>When I’m not coding, I enjoy fitness, traveling, and exploring new hobbies that keep me inspired and motivated!</p>
+<p align="left">📚 I'm currently learning<br>I’m focusing on web development, learning front-end technologies like HTML, CSS, and JavaScript, as well as back-end development with Java Spring Boot.<br><br>🎯 Goals<br>Develop user-friendly and impactful mobile and web applications.<br>Enhance my skills in AI-powered solutions and data analysis to solve real-world problems.<br>Work on projects that combine technology and innovation to make a difference.<br><br>🎲 Fun Fact<br>When I’m not coding, I enjoy fitness, traveling, and exploring new hobbies that keep me inspired and motivated!</p>
 
 ###
 
