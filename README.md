@@ -19,16 +19,16 @@
 
 ### 👨‍💻 About Me
 
-I am a Computer Engineering graduate from Sakarya University (2024) and currently pursuing an M.Sc. in Information Systems Engineering.
+I am a **Computer Engineering graduate** from **Sakarya University (2024)** and currently pursuing an **M.Sc. in Information Systems Engineering**.
 
-I focus on backend and full-stack development, building scalable applications using Java, Spring Boot, React, and modern software engineering practices. I have experience developing RESTful APIs, microservices-based systems, and database-driven applications.
+I focus on **backend and full-stack development**, building scalable applications using **Java, Spring Boot, React**, and modern software engineering practices. I have experience developing **RESTful APIs, microservices-based systems, and database-driven applications**.
 
-I also work on Machine Learning and NLP projects, exploring AI-driven solutions and data-oriented approaches to software development.
+I also work on **Machine Learning and NLP projects**, exploring **AI-driven solutions** and data-oriented approaches to software development.
 
 - 🎓 Graduate: Sakarya University – Computer Engineering
 - 💻 Focus: Backend Development, Full Stack Applications & Scalable Systems
 - 🚀 Currently Improving: Microservices, System Design, Cloud Technologies & AI Applications
-- 🎯 Career Goal: Become a Software Architect by building clean, maintainable, and scalable systems
+- 🎯 Career Goal: Become a **Software Architect** by building clean, maintainable, and scalable systems
 - ⚡ Fun Fact: When I’m not coding, I enjoy fitness, traveling, and discovering new places
 
 ---
