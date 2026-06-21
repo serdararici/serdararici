@@ -19,68 +19,109 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Engineering** graduate from **Sakarya University (2024)** and a **Java-oriented Full Stack Developer**.
+I am a Computer Engineering graduate from Sakarya University (2024) and currently pursuing an M.Sc. in Information Systems Engineering.
 
-I specialize in building **scalable backend systems** using **Java & Spring Boot**, designing RESTful APIs, handling business logic, and working with relational databases.  
-On the frontend side, I develop modern and responsive user interfaces with **React / Next.js**.
+I focus on backend and full-stack development, building scalable applications using Java, Spring Boot, React, and modern software engineering practices. I have experience developing RESTful APIs, microservices-based systems, and database-driven applications.
 
-I also have hands-on experience in **mobile development (Android & Flutter)**, which allows me to approach projects with an end-to-end and user-focused mindset.
+I also work on Machine Learning and NLP projects, exploring AI-driven solutions and data-oriented approaches to software development.
 
-- 🎓 **Graduate:** Sakarya University – Computer Engineering  
-- 💻 **Focus:** Full Stack Development (Java + React)  
-- 🚀 **Currently Improving:** Spring Boot, REST APIs, SQL, Docker & Cloud fundamentals  
-- 🎯 **Career Goal:** Grow into a **Software Architect**, focusing on clean architecture, system design, and scalable systems  
-- ⚡ **Fun Fact:** When I’m not coding, I enjoy fitness, traveling, and exploring new places
+- 🎓 Graduate: Sakarya University – Computer Engineering
+- 💻 Focus: Backend Development, Full Stack Applications & Scalable Systems
+- 🚀 Currently Improving: Microservices, System Design, Cloud Technologies & AI Applications
+- 🎯 Career Goal: Become a Software Architect by building clean, maintainable, and scalable systems
+- ⚡ Fun Fact: When I’m not coding, I enjoy fitness, traveling, and discovering new places
 
 ---
 
 <h2 align="left">💻 Tech Stack</h2>
 
 <h4 align="left">Backend</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40"/>
-</div>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+  Java
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"/>
+  Spring Boot
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
+  C#
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30"/>
+  .NET
+  <br>
+  Spring Security | Hibernate | Microservices | Redis | RabbitMQ | JWT
+</p>
+
+
+<h4 align="left">AI & Data Science</h4>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  Python
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30"/>
+  Pandas
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30"/>
+  NumPy
+  <br>
+  Machine Learning | Scikit-learn | NLP | OpenCV | YOLO
+</p>
+
 
 <h4 align="left">Frontend</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-</div>
 
-<h4 align="left">Mobile</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  JavaScript
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  TypeScript
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  React
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30"/>
+  Next.js
+  <br>
+  HTML5 | CSS3 | Tailwind CSS | Bootstrap
+</p>
+
+
+<h4 align="left">Mobile Development</h4>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30"/>
+  Android
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30"/>
+  Kotlin
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30"/>
+  Flutter
+  <br>
+  MVVM | Retrofit | Room | Bloc
+</p>
+
 
 <h4 align="left">Database & DevOps</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40"/>
-</div>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+  PostgreSQL
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  MySQL
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+  Docker
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30"/>
+  AWS
+  <br>
+  Git | GitHub Actions | CI/CD | SQLite | MSSQL | Firebase
+</p>
 
 ---
 
