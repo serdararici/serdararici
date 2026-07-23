@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/serdararicii/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://serdararici.vercel.app/" target="_blank">
+  <a href="https://serdararici.com/" target="_blank">
   <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
